@@ -1,0 +1,22 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(0, 0, 255);
+    flex-direction: column;
+}
+
+#Zeitanzeige {
+    font-size: 6em;
+    margin-bottom: 5px;
+    font-family: monospace;
+}
+
+button {
+    font-size: 2em;
+    width: 180px;
+    margin: 0 1px;
+}

@@ -1,0 +1,9 @@
+Erstelle ein einfaches Stoppuhr-Programm mit Javascript.
+
+Dieses soll die gestoppte Zeit in Sekunden ausgeben.
+Die Stoppuhr soll mittels drei Knöpfen bedienbar sein:
+Start
+Stop
+Reset
+
+
